@@ -6,7 +6,7 @@ An end-to-end interactive Excel dashboard designed to analyze coffee shop transa
 
 ## 📸 Dashboard Preview
 
-![Coffee Shop Dashboard](Dashboard Preview.png)
+![Coffee Shop Dashboard](dashboard_preview.png)
 
 ---
 
